@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Systemutvecklingsprojekt VT 2018 Visiba Care
 
-You can use the [editor on GitHub](https://github.com/VisibaCare/sup-2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Visiba Care kommer under vårterminen 2018 att erbjuda två studenter vid Örebro Universitet möjligheten att göra sitt systemutvecklingsprojekt (SUP) hos oss på vårt Örebrokontor.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Visiba Care är en plattform som ger vårdgivare möjlighet att starta en digital mottagning med funktioner som tex videosamtal, meddelanden, tidsbokning och drop-in. Plattformen finns idag tillgänglig på webben och som appar till Android och iOS.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Målet med projektet är att med hjälp av utvecklare från Visiba Care utöka plattformen för att göra det möjligt för patienter att under ett samtal eller konversation skicka mätvärden från olika sensorer som tex en blodtrycksmätare till sin läkare och på så sätt minska behovet av ett “fysiskt” läkarbesök.
+
+Under hela projektets gång kommer man självklart ha tillgång till handledare från Visiba Care som hjälper till med allt från planering och kravhantering  till eventuella tekniska utmaningar. Projektet kommer delas upp i sprintar som planeras tillsammans med handledarna. Varje sprint kommer att avslutas med en “demo” samt eventuell code review.
+
+## Projektets olika delmoment:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Förstudie för att identifiera lämpliga sensorer och eventuella standarder
+- Implementation av lösningen
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Verktyg:
 
-### Jekyll Themes
+```markdown
+- C#/.NET Core
+- ASP.NET Core
+- Typescript
+- Angular
+- Någon form av databas
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VisibaCare/sup-2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Ansökningar i form av CV, studieresultat och ett personligt brev skickas till
+```markdown
+joakim.thun@visibagroup.com
+```

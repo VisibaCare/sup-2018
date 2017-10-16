@@ -1,5 +1,3 @@
-## Systemutvecklingsprojekt VT 2018 Visiba Care
-
 Visiba Care kommer under vårterminen 2018 att erbjuda två studenter vid Örebro Universitet möjligheten att göra sitt systemutvecklingsprojekt (SUP) hos oss på vårt Örebrokontor.
 
 Visiba Care är en plattform som ger vårdgivare möjlighet att starta en digital mottagning med funktioner som tex videosamtal, meddelanden, tidsbokning och drop-in. Plattformen finns idag tillgänglig på webben och som appar till Android och iOS.

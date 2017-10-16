@@ -4,10 +4,14 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    background: #008296;
-    background-image: linear-gradient(120deg, #006878, #008296);
+    background: #007187;
+    background-image: linear-gradient(120deg, #0095a6, #007187);
 }
 
 .main-content {
-    padding: 1rem 6rem;
+    padding-top: 1rem;
+
+    h2, h3 {
+        color: #007187;
+    }
 }
